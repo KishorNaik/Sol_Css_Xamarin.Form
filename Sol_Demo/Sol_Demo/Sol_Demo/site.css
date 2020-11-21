@@ -1,0 +1,13 @@
+﻿#btnSubmit {
+    background-color: orange;
+}
+
+.detailPageTitle {
+    font-style: bold;
+    font-size: medium;
+    text-align: center;
+}
+
+.detailPageColor {
+   color:red;
+}

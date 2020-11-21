@@ -1,0 +1,12 @@
+﻿Step 1:
+Create a stylesheet file in the solution.
+
+Step 2:
+Consume css in content page like this
+
+ <ContentPage.Resources>
+        <StyleSheetExtension Source="site.css"></StyleSheetExtension>
+    </ContentPage.Resources>
+
+Reference:
+https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/css/
